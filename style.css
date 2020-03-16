@@ -1,7 +1,5 @@
 body {
   font: 16px Helvetica, Sans-Serif;
-  background: url(backimg.jpg) no-repeat center center fixed;
-  width: 100%;
-  height: auto;
+  background: url(backimg.jpg);
 }
 
