@@ -1,8 +1,6 @@
 body {
   font: 16px Helvetica, Sans-Serif;
   background: url(background.png);
-  background-repeat: no/repeat;
+  background-repeat: no-repeat;
 }
-p {
-  color: blue;
-}
+
