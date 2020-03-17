@@ -51,7 +51,7 @@ header {
     border-bottom: 1px solid #999;
 }
 
-#technical-Skills .my_list {
+#my_list {
   display: flex;
   flex-direction: row;
 }
