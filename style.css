@@ -5,9 +5,9 @@ html, body{
 }
 
 header {
-  Background: url(headerback.jpg);
-  max-width: 100%;
-  height: auto;
+  background: url(headerback.jpg);
+  background-position: center;
+  background-size: contain;
   background-repeat: no-repeat;
   padding: 25px;
   text-align: center;
