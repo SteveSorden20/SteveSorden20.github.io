@@ -5,7 +5,7 @@ html, body{
 }
 
 header {
-  Background-color: #cccaca;
+  Background: url(headerback.jpg);
   padding: 25px;
   text-align: center;
 }
