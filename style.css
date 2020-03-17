@@ -80,6 +80,10 @@ ul {
   float: right;
 }
 
+a {
+	text-decoration: none;
+}
+
 footer {
   background: url(wideback.jpg);
   background-position: center;
