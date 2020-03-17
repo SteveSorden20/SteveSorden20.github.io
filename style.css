@@ -80,4 +80,12 @@ ul {
   float: right;
 }
 
+footer {
+  background: url(wideback.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 25px;
+  text-align: center;
+}
 
