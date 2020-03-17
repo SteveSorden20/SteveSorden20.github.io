@@ -24,8 +24,8 @@ header img{
     width: 279px;
 }
 
-.content{
-  max-width: 900px;
-  margins: 0 auto;
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
 }
 
