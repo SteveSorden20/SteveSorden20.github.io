@@ -51,10 +51,9 @@ header {
     border-bottom: 1px solid #999;
 }
 
-#technical-Skills ul li {
-	list-style: square;
-display: inline-block;	
-	margin: 0 5px;
+.my_list {
+  display: flex;
+  flex-direction: row;
 }
 
 #Employment {
