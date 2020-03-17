@@ -1,3 +1,7 @@
+html, body{
+  font-family: Times New Roman, serif;
+}
+
 header {
   Background-color: #cccaca;
   padding: 25px;
