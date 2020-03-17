@@ -52,6 +52,7 @@ header {
 }
 
 #technical-Skills ul li {
+	list-style: square;
 display: inline-block;	
 	margin: 0 5px;
 }
