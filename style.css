@@ -24,6 +24,11 @@ header img{
     width: 279px;
 }
 
+.date {
+  vertical-align: top;
+  float: right;
+}
+
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
