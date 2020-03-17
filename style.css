@@ -6,6 +6,7 @@ html, body{
 
 header {
   Background: url(headerback.jpg);
+  background-repeat: no-repeat;
   padding: 25px;
   text-align: center;
 }
