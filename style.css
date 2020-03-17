@@ -49,14 +49,14 @@ header {
 }
 
 #list1 {
-  float: left; 
+  float: left; width 50%;
 	list-style: square;
 	padding: 0;
 	margin: 0;
 }
 
 #list2 {
-  float: right; 
+  float: right; width 50%;
 	list-style: square;
 	padding: 0;
 	margin: 0;
