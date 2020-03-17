@@ -1,11 +1,19 @@
-body {
-  font: 16px Times New Roman, Serif;
-  background-color: lightblue;
+header {
+  Background-color: #cccaca;
+  padding: 45px;
+  text-align: center;
 }
 
-h1 {
- color: lightgray;
-  font-size: 75px;
-  text-decoration: underline;
-  
+h1{
+ font-size:90px;
 }
+
+header img{
+  border-radius: 150px;
+}
+
+/*<header>
+        <img src ="SteveSorden.jpg" id="picture">
+        <h1>Steve Sorden </h1>
+      </header>*/
+
