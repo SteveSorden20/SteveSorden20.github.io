@@ -77,6 +77,11 @@ ul {
   float: right;
 }
 
+.list2 {
+  vertical-align: top;
+  float: right;
+}
+
 a {
 	text-decoration: none;
 }
