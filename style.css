@@ -94,5 +94,6 @@ footer {
 }
 
 footer ul li {
-display: inline;	
+display: inline-block;	
+	margin: 0 5px;
 }
