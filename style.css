@@ -51,6 +51,11 @@ header {
     border-bottom: 1px solid #999;
 }
 
+#technical-Skills ul li {
+display: inline-block;	
+	margin: 0 5px;
+}
+
 #Employment {
 	margin: 0px 0 16px 0;
     padding: 16px 59px 16px 0;
