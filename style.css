@@ -22,12 +22,10 @@ header img{
     border-radius: 150px;
     padding: 5px;
     width: 279px;
-  
-  
 }
 
-/*<header>
-        <img src ="SteveSorden.jpg" id="picture">
-        <h1>Steve Sorden </h1>
-      </header>*/
+.content{
+  max-width: 900px;
+  margins: 0 auto;
+}
 
