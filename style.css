@@ -14,8 +14,9 @@ html, body{
 }
 
 #container {
-	width: 800px;
+	max- width: 80%;
 	margin: 40px auto 60px;
+	padding: 0 40px;
 }
 
 header {
