@@ -1,6 +1,6 @@
 header {
   Background-color: #cccaca;
-  padding: 45px;
+  padding: 25px;
   text-align: center;
 }
 
@@ -9,7 +9,7 @@ h1{
 }
 
 header img{
-  border-radius: 150px;
+  border-radius: 75px;
 }
 
 /*<header>
