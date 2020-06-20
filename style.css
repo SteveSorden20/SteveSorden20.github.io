@@ -49,11 +49,11 @@ header {
 }
 #firstsix{
 	position:absolute;
-	left:0px;
+	left:40%;
 }
 #secondfive{
 	position:absolute;
-	right:100px;
+	right:30%;
 }
 
 #Employment {
