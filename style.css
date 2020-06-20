@@ -47,6 +47,14 @@ header {
     padding: 16px 59px 16px 0;
     border-bottom: 1px solid #999;
 }
+#firstsix{
+	position:absolute;
+	left:0px;
+}
+#secondfive{
+	position:absolute;
+	right:0px;
+}
 
 #Employment {
 	margin: 0px 0 16px 0;
