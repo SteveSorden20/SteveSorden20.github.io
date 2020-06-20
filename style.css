@@ -48,11 +48,11 @@ header {
     border-bottom: 1px solid #999;
 }
 #firstsix{
-	position:absolute;
+	position:fixed;
 	left:40%;
 }
 #secondfive{
-	position:absolute;
+	position:fixed;
 	right:30%;
 }
 
