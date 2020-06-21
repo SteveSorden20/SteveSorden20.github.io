@@ -1,0 +1,128 @@
+html, body{
+    font-family: Times New Roman, serif;
+    padding: 0;
+    margin: 0;
+      background-color: #ebf2fc;
+  }
+
+  .content {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 60px;
+}
+
+  header {
+    background: url(wideback.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+    text-align: center;
+  }
+
+  h1{
+    font-size:70px;
+    text-align: center;
+   }
+
+  #navBar{
+    
+    list-style-type: none;
+    margin: 0px 0 16px 0;
+    overflow: hidden;
+    background-color:#213862; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#firstsix{
+    position: relative;
+    left: 20px;
+}
+#secondfive{
+    float:right;
+    position: relative;
+    top: -107px;
+}
+
+#coverletter, #education, #employment, #technicalskills {
+
+border-right: 1px solid #bbb;
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+#coverletter{
+    border-left: 1px solid #bbb;
+}
+
+#technicalskills{
+    color: black;
+background-color: white;
+}
+
+#coverletter:hover, #education:hover, #employment:hover, #technicalskills:hover{
+color: black;
+background-color: white;
+}
+
+ol li{
+    list-style-type: upper-roman;
+    list-style: none;
+    position: relative;
+    display: block;
+}
+ table,th, tr, td{
+    border: 2px solid;
+    border-collapse: collapse;
+    font-size: 140%;
+    text-align: center;
+    width: 50%;
+    
+}
+table{
+    border:none;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+th{
+    height:40px;
+    background-color: grey;
+    
+}
+
+tr, td{
+    height: 20px;
+}
+
+#UNOGame, #Addressbook{
+    text-decoration:none;
+    display: block;
+    text-align: center;
+    color:Black;
+    
+}
+
+#UNOGame:hover, #Addressbook:hover{
+    color: red;
+
+}
+footer {
+    background: url(wideback.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  footer ul li {
+  display: inline-block;	
+      margin: 0 5px;
+  }
